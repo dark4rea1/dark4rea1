@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Isam saed muhaid</h1>
-<h3 align="center">I am a Junior web devloper, with a lot of experinse in Bug Hunter</h3>
+<h3 align="center">I am a Junior Web Developer with extensive experience in bug hunting.</h3>
 
 - 🌱 I’m currently learning **c++, js and webflow**
 
