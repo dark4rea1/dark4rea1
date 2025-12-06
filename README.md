@@ -12,6 +12,8 @@
 
 - 📫 How to reach me **realdark06@gmail.com**
 
+- 🗪 Languages **Arabic & English**
+
 ## My Profile
 [https://muhaidprofile.netlify.app/](https://muhaidprofile.netlify.app/)
 
@@ -19,7 +21,7 @@
 <p align="left">
 </p>
 
-<h3 align="left">Languages and Tools :</h3>
+<h3 align="left">Tools :</h3>
 <p align="left">
 
   <!-- C++ -->
