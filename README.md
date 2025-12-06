@@ -1,4 +1,6 @@
-![cat banner](https://media.tenor.com/WdGa2vm0uvEAAAAC/cat-banner-pixel-banner.gif)
+<div align="center">
+  <img src="https://media.tenor.com/WdGa2vm0uvEAAAAC/cat-banner-pixel-banner.gif" style="max-width: 100%; width: 100%;" />
+</div>
 
 
 <h1 align="center">Hi 👋, I'm Isam saed muhaid</h1>
@@ -50,8 +52,3 @@
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/rn4kaeN7NQ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/venoxz2/) 
 
----
-[![](https://visitcount.itsvg.in/api?id=dascofire&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
