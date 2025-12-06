@@ -6,8 +6,6 @@
 <h1 align="center">Hi 👋, I'm Isam saed muhaid</h1>
 <h3 align="center">I am a Junior web devloper, with a lot of experinse in Bug Hunter</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Bekkali-2004&label=Profile%20views&color=0e75b6&style=flat" alt="dascofire" /> </p>
-
 - 🌱 I’m currently learning **c++, js and webflow**
 
 - 💬 Ask me about **HTML&css or how to spot and write down bugs**
